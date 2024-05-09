@@ -1,7 +1,7 @@
 
 # Lifeboat
 
-This code was written to perform mass-exfiltration of EBS and RDS snapshots in a DR scenario.
+This code was written to perform mass-exfiltration of KMS-encrypted EBS volumes and RDS databases out of multiple accounts in a DR scenario.
 
 ## Usage
 
