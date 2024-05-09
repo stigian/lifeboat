@@ -1,3 +1,4 @@
+
 # Lifeboat
 
 This code was written to perform mass-exfiltration of EBS and RDS snapshots in a DR scenario.
@@ -13,3 +14,6 @@ rdssnap <destination_KMS_Key_Arn> <account_id_to_share_to>
 
 rdsreceive  <destination_KMS_Key_Arn> <instance_snapshot_ids_file> <cluster_snapshot_id_file>
 ```
+
+This code is provided AS IS. Use are your own risk. Stigian is not responsible for the use of this code, any data loss that may result, etc.
+
